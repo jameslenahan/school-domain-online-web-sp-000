@@ -14,7 +14,6 @@ attr_accessor :name, :roster
       roster.detect do |x, y| 
         if x == level
           return y 
-        end 
       end 
     end
   end
