@@ -16,5 +16,6 @@ attr_accessor :name, :roster
           return y 
         end 
       end 
-    end 
+    end
+  end
 end
